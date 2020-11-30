@@ -1,8 +1,5 @@
-### Hi there, I'm Chittu - aka [TonyGhouse][website] 
+### Hi there, I'm Chittu - aka [KingChittu][website] 
 
-
-[![Website](https://img.shields.io/website?color=%2303ef62&down_color=red&down_message=Down&label=Tony%27s%20Blog&style=for-the-badge&up_color=green&up_message=Visit&url=https%3A%2F%2Fabout.me%2Ftonyghouse)](https://about.me/tonyghouse)
-[![Twitter Follow](https://img.shields.io/twitter/follow/billgates?color=%231DA1F2&label=%40tonyghouse&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/kingchittu)
 
 ## I'm a Freelance programmer & Logo designer!
 
@@ -44,34 +41,6 @@
 <br />
  
 ***
-  
-### :zap: Github Stats
- <img align="left" alt="tonyghouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonyghouse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-***
-
-
-<!--### :clock10: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--
-1. 🎉 Merged PR [#3](https://github.com/tonyghouse/testspace/pull/3) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
-2. 💪 Opened PR [#2](https://github.com/tonyghouse/testspace/pull/2) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
-3. 🎉 Merged PR [#1](https://github.com/tonyghouse/testspace/pull/1) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
-4. 🗣 Commented on [#1](https://github.com/tonyghouse/testspace/issues/1) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
-5. 💪 Opened PR [#1](https://github.com/tonyghouse/testspace/pull/1) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
-<!--END_SECTION:activity-->
-       
-<br />
-
 [website]: https://about.me/kingchittu
 [twitter]: https://twitter.com/kingchittu
 [youtube]: https://youtube.com/kingchittu
