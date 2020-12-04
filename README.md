@@ -46,7 +46,7 @@
 [youtube]: https://youtube.com/kingchittu
 [instagram]: https://instagram.com/kingchittu
 [linkedin]: https://linkedin.com/in/kingchittu
-[facebook]:https://facebook.com/kingchittu
+[facebook]:https://facebook.com/kingchittuofficial
 [gitprojects]:https://github.com/kingchittu?tab=repositories
 
 
